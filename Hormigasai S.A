@@ -1,7 +1,45 @@
-echo "# Search-syntax" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Thrumanshow/Search-syntax.git
-git push -u origin main
+<!-- PERFIL DE USUARIO: CHRIS QUIÑONEZ (HormigasAIS) -->
+<div style="display:flex; align-items:center; gap:10px;">
+[[File:Ant-icon.svg|40px|alt=Icono de HormigasAIS]]
+<span style="font-size:24px; font-weight:bold; color:#1877F2;">Cristhiam Quiñonez</span>
+</div>
+
+{| style="float:right; margin:1em; border:1px solid #aaa; background:#f9f9f9; padding:5px;"
+|-
+| {{User es-N}} <!-- Español nativo -->
+|-
+| {{User en-3}} <!-- Inglés avanzado -->
+|-
+| {{User Wikipedia}} <!-- Usuario activo de Wikipedia -->
+|-
+| {{User AI}} <!-- Interesado en Inteligencia Artificial -->
+|-
+| {{User Webdev}} <!-- Desarrollador web -->
+|-
+| {{Userbox|#00AEEF|#ffffff|[[File:Ant-icon.svg|40px]]|'''Founder of [[HormigasAIS]]'''}}
+|}
+
+== About me ==
+Hello, I'm '''Cristhiam Quiñonez''', also known as '''Chris Quiñonez''', founder of '''HormigasAIS''', a project that blends '''artificial intelligence, digital marketing, and automation''' to help people and organizations thrive in the technological present.
+
+I'm a graphic designer by training, and a self-taught web developer, data analyst, and SEO specialist. I create educational tools and digital content in Spanish to promote responsible and accessible technology use. I focus on building bridges between AI and real human needs.
+
+On Wikipedia, I participate as an observer, learner, and contributor. I value collective knowledge and aim to share insights from my experience in digital innovation and educational technology.
+
+'''Featured projects:'''
+* [https://github.com/HormigasAIS HormigasAIS Open Lab (GitHub)]
+* HormigasAIS Community (newsletter about automation and AI culture)
+* TheAntsMind (hub for ideas, tools, and visualizations)
+
+I'm open to collaborations, discussions, and idea exchanges.  
+'''Thanks for visiting my profile!'''
+
+== ¡Colabora conmigo! / Let's collaborate! ==
+¿Tienes ideas relacionadas con automatización, IA o cultura digital? ¡Estoy abierto a colaborar, intercambiar conocimientos y crecer juntos! Puedes dejarme un mensaje en mi [[User talk:HormigasaiS.A|página de discusión]] o escribirme a través de mis proyectos enlazados. La construcción colectiva del conocimiento es una de mis motivaciones principales aquí.
+
+Have a passion for automation, AI, or digital culture? I’m open to collaboration, learning, and co-creating ideas. Feel free to leave a message on my [[User talk:HormigasaiS.A|talk page]] or explore my linked projects. I truly value shared knowledge and creative community building.
+
+----
+
+''“Las HormigasAIS encuentran sabiduría en silencio, su corazón enraizado en la tierra y su mente flotando entre las estrellas.”''  
+<small>– Frase simbólica del proyecto HormigasAIS</small>
